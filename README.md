@@ -2,6 +2,12 @@
 
 Purpose of this simple package is to give easy to use abstractions for localizing your python app. Generally this package was made just for my telegram bots.
 
+## Installation
+Simply:
+```
+pip3 install localizator
+```
+
 ## Initialization
 Firstly, you have to create localizator object:
 ```Python
